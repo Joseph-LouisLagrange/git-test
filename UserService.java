@@ -12,4 +12,6 @@ public class UserService{
     public void update(){
         // 
     }
+
+    public void read(){}
 }
