@@ -12,4 +12,5 @@ public class UserService{
     public void update(){
         // 
     }
+    public void get(){}
 }
