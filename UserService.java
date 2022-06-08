@@ -15,4 +15,6 @@ public class UserService{
     public void get(){}
 
     public void read(){}
+
+    public void remove(){}
 }
