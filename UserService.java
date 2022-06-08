@@ -8,4 +8,8 @@ public class UserService{
         public void deleteUser(){
         // .....
     }
+
+    public void update(){
+        // 
+    }
 }
